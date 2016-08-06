@@ -1,0 +1,28 @@
+_repo: Byron_10100
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nichol, John
+    birthdate: 1833
+    deathdate: 1894
+    gutenberg_agent_id: '3136'
+    url: http://www.gutenberg.org/2009/agents/3136
+    wikipedia: http://en.wikipedia.org/wiki/John_Nichol
+description: This 1880 English Men of Letters volume focuses on the rock star of Romanticism.
+  Byron's life was passed under the fierce light that beats upon an intellectual throne,
+  writes Nichol. He succeeded in making himself what he wished to be the most notorious
+  personality in the world of letters of our century.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Byron, George Gordon Byron, Baron, 1788-1824'
+- GITenberg
+title: Byron
+url: http://www.gutenberg.org/ebooks/10100
