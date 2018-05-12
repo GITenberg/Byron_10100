@@ -1,5 +1,8 @@
 _repo: Byron_10100
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nichol, John
@@ -12,6 +15,8 @@ description: This 1880 English Men of Letters volume focuses on the rock star of
   Byron's life was passed under the fierce light that beats upon an intellectual throne,
   writes Nichol. He succeeded in making himself what he wished to be the most notorious
   personality in the world of letters of our century.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10100#Byron
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
